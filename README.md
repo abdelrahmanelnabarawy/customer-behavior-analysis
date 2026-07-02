@@ -126,7 +126,7 @@ customer-behavior-analysis
 **Abdelrahman ElNabarawy**
 
 - LinkedIn: https://www.linkedin.com/in/abdelrahman-el-nabarawy-3390b1246/
-- GitHub: 
+- GitHub:  https://github.com/abdelrahmanelnabarawy
 
 ---
 
